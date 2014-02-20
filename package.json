@@ -1,0 +1,8 @@
+{
+  "name": "component-contextual-selector",
+  "description": "Get a selector for an element given a contextual selector",
+  "version": "0.0.2",
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
